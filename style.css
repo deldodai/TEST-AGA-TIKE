@@ -58,5 +58,13 @@ nav .left .searchbar input{
 
 nav .center{
     position: relative;
-    
+    right: 45px;   
+}
+nav .center i{
+    margin: 0 45px 0 45px;
+    font-size: 22px;
+}
+
+nav .center i:hover{
+    color: #aa2e2e;
 }
